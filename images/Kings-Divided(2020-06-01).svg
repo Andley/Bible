@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<svg width="874" height="1240" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <marker id="se_marker_end_svg_232" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#b2b2b2" id="svg_4" stroke="#b2b2b2" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_161" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_38" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_165" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_42" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_230" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_51" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_234" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_58" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_235" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_65" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_246" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_67" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_254" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_87" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_258" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_95" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_260" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_107" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_135" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_18" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_142" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_49" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_151" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_1" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_171" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_21" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_171" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_22" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_103" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_23" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_512" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m0,50l100,40l-30,-40l30,-40l-100,40z" fill="#000000" id="svg_32" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_153" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" id="svg_34" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_513" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_75" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_516" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_158" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_516" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_183" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_559" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_199" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_559" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_211" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_562" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_237" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_end_svg_562" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_255" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+ </defs>
+ <g class="layer" display="inline">
+  <title>Layer 2</title>
+  <g id="svg_301"/>
+  <g id="svg_143"/>
+  <g id="svg_139"/>
+  <g id="svg_99"/>
+  <g id="svg_83"/>
+  <g id="svg_79"/>
+  <g id="svg_330"/>
+  <g id="svg_378"/>
+  <g id="svg_374"/>
+  <g id="svg_406"/>
+  <polygon fill="#ffffff" id="svg_411"/>
+  <polygon fill="#ffffff" id="svg_412"/>
+  <g id="svg_3"/>
+  <g id="svg_382"/>
+  <g id="svg_320"/>
+  <g id="svg_289"/>
+  <g id="svg_290"/>
+  <g id="svg_291"/>
+  <g id="svg_293"/>
+  <g id="svg_294"/>
+  <g id="svg_295"/>
+  <g id="svg_296"/>
+  <g id="svg_297"/>
+  <g id="svg_299"/>
+  <g id="svg_302"/>
+  <g id="svg_304"/>
+  <g id="svg_305"/>
+  <g id="svg_306"/>
+  <g id="svg_307"/>
+  <g id="svg_308"/>
+  <g id="svg_309"/>
+  <g id="svg_310"/>
+  <g id="svg_311"/>
+  <g id="svg_312"/>
+  <g id="svg_313"/>
+  <g id="svg_314"/>
+  <g id="svg_315"/>
+  <g id="svg_316"/>
+  <g id="svg_324"/>
+  <g id="svg_150"/>
+  <g id="svg_152"/>
+  <g id="svg_154"/>
+  <g id="svg_175"/>
+  <g id="svg_179"/>
+  <g id="svg_187"/>
+  <g id="svg_240"/>
+  <g id="svg_241"/>
+  <g id="svg_243"/>
+  <g id="svg_245"/>
+  <g id="svg_247"/>
+  <g id="svg_250"/>
+  <g id="svg_251"/>
+  <g id="svg_253"/>
+  <g id="svg_256"/>
+  <g id="svg_257"/>
+  <g id="svg_259"/>
+  <g id="svg_266"/>
+  <g id="svg_267"/>
+  <g id="svg_362"/>
+  <g id="svg_410"/>
+  <g id="svg_413"/>
+  <g id="svg_414"/>
+  <g id="svg_415"/>
+  <g id="svg_416"/>
+  <g id="svg_419"/>
+  <g id="svg_422"/>
+  <g id="svg_71"/>
+  <g id="svg_91"/>
+  <g id="svg_228"/>
+  <g id="svg_229"/>
+  <g id="svg_231"/>
+  <g id="svg_233"/>
+  <g id="svg_236"/>
+  <g id="svg_269"/>
+  <g id="svg_354"/>
+  <g id="svg_459"/>
+  <g id="svg_461"/>
+  <g id="svg_462"/>
+  <g id="svg_464"/>
+  <g id="svg_465"/>
+  <g id="svg_466"/>
+  <g id="svg_468"/>
+  <g id="svg_469"/>
+  <g id="svg_470"/>
+  <g id="svg_471"/>
+  <g id="svg_472"/>
+  <g id="svg_473"/>
+  <g id="svg_474"/>
+  <g id="svg_476"/>
+  <g id="svg_477"/>
+  <g id="svg_479"/>
+  <g id="svg_480"/>
+  <g id="svg_481"/>
+  <g id="svg_482"/>
+  <g id="svg_483"/>
+  <g id="svg_484"/>
+  <g id="svg_485"/>
+  <g id="svg_486"/>
+  <g id="svg_487"/>
+  <g id="svg_488"/>
+  <g id="svg_489"/>
+  <g id="svg_490"/>
+  <g id="svg_491"/>
+  <g id="svg_492"/>
+  <g id="svg_493"/>
+  <g id="svg_495"/>
+  <g id="svg_496"/>
+  <g id="svg_497"/>
+  <g id="svg_498"/>
+  <g id="svg_499"/>
+  <g id="svg_500"/>
+  <g id="svg_501"/>
+  <g id="svg_502"/>
+  <g id="svg_503"/>
+  <g id="svg_505"/>
+  <g id="svg_506"/>
+  <g id="svg_508"/>
+  <g id="svg_509"/>
+  <g id="svg_510"/>
+  <g id="svg_511"/>
+  <g id="svg_514"/>
+  <g id="svg_515"/>
+  <g id="svg_563"/>
+  <g id="svg_564"/>
+  <g id="svg_273"/>
+  <g id="svg_277"/>
+  <g id="svg_278"/>
+  <g id="svg_279"/>
+  <g id="svg_280"/>
+  <g id="svg_455"/>
+  <g id="svg_456"/>
+  <g id="svg_7"/>
+  <g id="svg_11">
+   <path d="m438.29851,858.95277l6.2798,-36.91998l27.56828,-17.9373l-33.84808,54.85728l-169.23645,0l0,-329.137l203.08453,0l0,274.27973" fill="#e5e5e5" id="svg_8" stroke="#000000"/>
+   <rect fill="#ffffff" height="7.5" id="svg_261" stroke="#000000" width="90" x="189" y="55.5"/>
+   <rect fill="#7f7f7f" height="22" id="svg_144" stroke="#000000" width="5" x="269" y="417"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_379" stroke="#000000" stroke-width="0" text-anchor="middle" x="181.65283" xml:space="preserve" y="807.54938">俄巴底亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_380" stroke="#000000" stroke-width="0" text-anchor="middle" x="181.65283" xml:space="preserve" y="817.54938">Obadiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_381" stroke="#000000" stroke-width="0" text-anchor="middle" x="181.65283" xml:space="preserve" y="827.54938">855-840</text>
+   <rect fill="#ffffff" height="24" id="svg_265" stroke="#000000" width="5" x="189" y="217"/>
+   <rect fill="#000000" height="20" id="svg_239" stroke="#000000" width="0" x="284" y="63"/>
+   <rect fill="#7f7f7f" height="42" id="svg_242" stroke="#000000" width="10" x="269" y="63"/>
+   <rect fill="#7f7f7f" height="2" id="svg_244" stroke="#000000" width="10" x="269" y="105"/>
+   <rect fill="#bfbfbf" height="44" id="svg_248" stroke="#000000" width="10" x="269" y="107"/>
+   <rect fill="#bfbfbf" height="2" id="svg_252" stroke="#000000" width="10" x="269" y="151"/>
+   <rect fill="#bfbfbf" height="18" id="svg_19" stroke="#000000" width="5" x="269" y="153"/>
+   <rect fill="#7f7f7f" height="32" id="svg_46" stroke="#000000" width="5" x="274" y="153"/>
+   <rect fill="#7f7f7f" height="32" id="svg_47" stroke="#000000" width="10" x="269" y="185"/>
+   <rect fill="#7f7f7f" height="2" id="svg_48" stroke="#000000" width="10" x="269" y="217"/>
+   <rect fill="#7f7f7f" height="22" id="svg_50" stroke="#000000" width="10" x="269" y="219"/>
+   <rect fill="#bfbfbf" height="32" id="svg_101" stroke="#000000" width="10" x="269" y="295"/>
+   <rect fill="#bfbfbf" height="32" id="svg_102" stroke="#000000" width="5" x="269" y="327"/>
+   <rect fill="#bfbfbf" height="80" id="svg_140" stroke="#000000" width="5" x="274" y="337"/>
+   <rect fill="#7f7f7f" height="4" id="svg_145" stroke="#000000" width="5" x="269" y="439"/>
+   <rect fill="#bfbfbf" height="40" id="svg_146" stroke="#000000" width="5" x="274" y="423"/>
+   <rect fill="#7f7f7f" height="16" id="svg_148" stroke="#000000" width="10" x="269" y="463"/>
+   <line fill="none" id="svg_151" marker-end="url(#se_marker_end_svg_151)" stroke="#000000" x1="339" x2="281" y1="106" y2="106"/>
+   <line fill="none" id="svg_153" marker-end="url(#se_marker_end_svg_153)" stroke="#000000" x1="339" x2="282" y1="152" y2="152"/>
+   <line fill="none" id="svg_161" marker-start="url(#se_marker_start_svg_161)" stroke="#000000" transform="rotate(-32 262.219 170.551)" x1="267" x2="258" y1="171" y2="171"/>
+   <line fill="none" id="svg_165" marker-end="url(#se_marker_end_svg_165)" stroke="#000000" x1="339" x2="282" y1="197" y2="197"/>
+   <line fill="none" id="svg_230" marker-end="url(#se_marker_end_svg_230)" stroke="#000000" x1="339" x2="282" y1="236" y2="236"/>
+   <line fill="none" id="svg_234" marker-end="url(#se_marker_end_svg_234)" stroke="#000000" x1="339" x2="282" y1="310" y2="310"/>
+   <line fill="none" id="svg_235" marker-end="url(#se_marker_end_svg_235)" stroke="#000000" x1="289" x2="277" y1="332" y2="332"/>
+   <line fill="none" id="svg_246" marker-end="url(#se_marker_end_svg_246)" stroke="#000000" x1="339" x2="284" y1="417" y2="417"/>
+   <line fill="none" id="svg_249" marker-end="url(#se_marker_end_svg_249)" marker-start="url(#se_marker_start_svg_249)" stroke="#000000" x1="271" x2="277" y1="417" y2="417"/>
+   <line fill="none" id="svg_254" marker-start="url(#se_marker_start_svg_254)" stroke="#000000" transform="rotate(53 262.5 408)" x1="270" x2="255" y1="408" y2="408"/>
+   <line fill="none" id="svg_258" marker-start="url(#se_marker_start_svg_258)" stroke="#000000" transform="rotate(-37 263 447)" x1="268" x2="258" y1="447" y2="447"/>
+   <line fill="none" id="svg_260" marker-end="url(#se_marker_end_svg_260)" stroke="#000000" x1="339" x2="282" y1="473" y2="473"/>
+   <rect fill="#ffffff" height="34" id="svg_262" stroke="#000000" width="10" x="189" y="63"/>
+   <rect fill="#ffffff" height="82" id="svg_263" stroke="#000000" width="5" x="189" y="103"/>
+   <rect fill="#ffffff" height="48" id="svg_264" stroke="#000000" width="5" x="194" y="179"/>
+   <rect fill="#ffffff" height="78" id="svg_284" stroke="#000000" width="10" x="189" y="253"/>
+   <rect fill="#ffffff" height="58" id="svg_286" stroke="#000000" width="5" x="189" y="331"/>
+   <rect fill="#ffffff" height="104" id="svg_287" stroke="#000000" width="5" x="194" y="339"/>
+   <rect fill="#ffffff" height="30" id="svg_288" stroke="#000000" width="5" x="189" y="423"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_128" stroke="#000000" stroke-width="0" text-anchor="middle" x="165.35938" xml:space="preserve" y="710">約雅敬</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_129" stroke="#000000" stroke-width="0" text-anchor="middle" x="157.35938" xml:space="preserve" y="720">Jehoiakim</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_130" stroke="#000000" stroke-width="0" text-anchor="middle" x="161.35938" xml:space="preserve" y="730">609-597</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_188" stroke="#000000" stroke-width="0" text-anchor="middle" x="310" xml:space="preserve" y="211">[5]亞哈謝</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_189" stroke="#000000" stroke-width="0" text-anchor="middle" x="313" xml:space="preserve" y="221">[5]Ahaziah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_190" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="231">853-852</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_180" stroke="#000000" stroke-width="0" text-anchor="middle" x="305" xml:space="preserve" y="168">[5]暗利</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_181" stroke="#000000" stroke-width="0" text-anchor="middle" x="306" xml:space="preserve" y="178">[5]Omri</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_182" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="188">885-874</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_43" stroke="#000000" stroke-width="0" text-anchor="middle" x="304" xml:space="preserve" y="122">[2]巴沙</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_44" stroke="#000000" stroke-width="0" text-anchor="middle" x="311" xml:space="preserve" y="132">[2]Baasha</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_45" stroke="#000000" stroke-width="0" text-anchor="middle" x="307" xml:space="preserve" y="142">908-886</text>
+   <rect fill="#ffffff" height="6" id="svg_131" stroke="#000000" width="10" x="189" y="97"/>
+   <line fill="none" id="svg_135" marker-start="url(#se_marker_start_svg_135)" stroke="#000000" transform="rotate(-16 173 105)" x1="187" x2="159" y1="105" y2="105"/>
+   <line fill="none" id="svg_142" marker-start="url(#se_marker_start_svg_142)" stroke="#000000" x1="186" x2="149" y1="229" y2="229"/>
+   <rect fill="#ffffff" height="40" id="svg_147" stroke="#000000" width="5" x="189" y="453"/>
+   <rect fill="#ffffff" height="82" id="svg_149" stroke="#000000" width="5" x="194" y="469"/>
+   <rect fill="#ffffff" height="110" id="svg_155" stroke="#000000" width="5" x="189" y="529"/>
+   <rect fill="#ffffff" height="4" id="svg_156" stroke="#000000" width="10" x="189" y="639"/>
+   <rect fill="#ffffff" height="62" id="svg_157" stroke="#000000" width="10" x="189" y="643"/>
+   <rect fill="#ffffff" height="24" id="svg_162" stroke="#000000" width="10" x="189" y="705"/>
+   <rect fill="#ffffff" height="22" id="svg_163" stroke="#000000" width="10" x="189" y="729"/>
+   <line fill="none" id="svg_171" marker-end="url(#se_marker_end_svg_171)" marker-start="url(#se_marker_start_svg_171)" stroke="#000000" transform="rotate(90 199 717)" x1="187" x2="211" y1="717" y2="717"/>
+   <line fill="none" id="svg_195" marker-end="url(#se_marker_end_svg_260)" stroke="#000000" transform="rotate(-24 206.733 702.159)" x1="211" x2="202" y1="702" y2="702"/>
+   <line fill="none" id="svg_203" marker-end="url(#se_marker_end_svg_260)" stroke="#000000" transform="rotate(17 206.5 731)" x1="211" x2="202" y1="731" y2="731"/>
+   <line fill="none" id="svg_207" marker-end="url(#se_marker_end_svg_235)" stroke="#000000" x1="288" x2="282" y1="218" y2="218"/>
+   <rect fill="#000000" height="12" id="svg_100" stroke="#000000" width="10" x="189" y="241"/>
+   <line fill="none" id="svg_103" marker-end="url(#se_marker_end_svg_103)" stroke="#000000" transform="rotate(-90 188.5 245.5)" x1="183" x2="195" y1="246" y2="246"/>
+   <line fill="none" id="svg_111" marker-start="url(#se_marker_start_svg_142)" stroke="#000000" transform="rotate(-27 181.5 243)" x1="186" x2="177" y1="243" y2="243"/>
+   <rect fill="#bfbfbf" height="54" id="svg_123" stroke="#000000" width="10" x="269" y="241"/>
+   <rect fill="#bfbfbf" height="52" id="svg_159" stroke="#000000" width="5" x="404" y="185"/>
+   <rect fill="#bfbfbf" height="102" id="svg_160" stroke="#000000" width="5" x="404" y="237"/>
+   <rect fill="#bfbfbf" height="50" id="svg_164" stroke="#000000" width="5" x="404" y="65"/>
+   <rect fill="#bfbfbf" height="76" id="svg_166" stroke="#000000" width="5" x="404" y="347"/>
+   <rect fill="#bfbfbf" height="20" id="svg_219" stroke="#000000" width="5" x="399" y="413"/>
+   <rect fill="#bfbfbf" height="40" id="svg_223" stroke="#000000" width="5" x="404" y="463"/>
+   <rect fill="#bfbfbf" height="30" id="svg_238" stroke="#000000" width="5" x="347" y="584"/>
+   <rect fill="#bfbfbf" height="80" id="svg_268" stroke="#000000" width="5" x="352" y="584"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_39" stroke="#000000" stroke-width="0" text-anchor="middle" x="167" xml:space="preserve" y="73">羅波安</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_40" stroke="#000000" stroke-width="0" text-anchor="middle" x="158" xml:space="preserve" y="83">Rehoboam</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_41" stroke="#000000" stroke-width="0" text-anchor="middle" x="164" xml:space="preserve" y="93">930-913</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_57" stroke="#000000" stroke-width="0" text-anchor="middle" x="125" xml:space="preserve" y="106.5">亞比雅(亞比央)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_56" stroke="#000000" stroke-width="0" text-anchor="middle" x="126" xml:space="preserve" y="116.5">Abijah(Abijam)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_55" stroke="#000000" stroke-width="0" text-anchor="middle" x="140" xml:space="preserve" y="126.5">913-910</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_64" stroke="#000000" stroke-width="0" text-anchor="middle" x="172.53125" xml:space="preserve" y="132">亞撒</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_63" stroke="#000000" stroke-width="0" text-anchor="middle" x="173.53125" xml:space="preserve" y="142">Asa</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_62" stroke="#000000" stroke-width="0" text-anchor="middle" x="163.53125" xml:space="preserve" y="152">910-869</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_70" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.20313" xml:space="preserve" y="213">872-848</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_69" stroke="#000000" stroke-width="0" text-anchor="middle" x="152.20313" xml:space="preserve" y="203">Jerhoshaphat</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_68" stroke="#000000" stroke-width="0" text-anchor="middle" x="167.20313" xml:space="preserve" y="193">約沙法</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_72" stroke="#000000" stroke-width="0" text-anchor="middle" x="138" xml:space="preserve" y="222">約蘭</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_73" stroke="#000000" stroke-width="0" text-anchor="middle" x="129" xml:space="preserve" y="232">Jehoram</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_74" stroke="#000000" stroke-width="0" text-anchor="middle" x="130" xml:space="preserve" y="242">853-841</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_76" stroke="#000000" stroke-width="0" text-anchor="middle" x="163.125" xml:space="preserve" y="248">亞哈謝</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_77" stroke="#000000" stroke-width="0" text-anchor="middle" x="160.125" xml:space="preserve" y="258">Ahaziah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_78" stroke="#000000" stroke-width="0" text-anchor="middle" x="170.125" xml:space="preserve" y="268">841</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_84" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.54345" xml:space="preserve" y="289.66663">約阿施</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_85" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.54345" xml:space="preserve" y="299.66663">Joash</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_86" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.54345" xml:space="preserve" y="309.66663">835-796</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_88" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.32813" xml:space="preserve" y="357">亞瑪謝</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_89" stroke="#000000" stroke-width="0" text-anchor="middle" x="160.32813" xml:space="preserve" y="367">Amaziah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_90" stroke="#000000" stroke-width="0" text-anchor="middle" x="161.32813" xml:space="preserve" y="377">796-767</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_92" stroke="#000000" stroke-width="0" text-anchor="middle" x="143.53125" xml:space="preserve" y="399">亞撒利雅(烏西雅)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_93" stroke="#000000" stroke-width="0" text-anchor="middle" x="146.53125" xml:space="preserve" y="409">Azariah(Uzziah)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_94" stroke="#000000" stroke-width="0" text-anchor="middle" x="163.53125" xml:space="preserve" y="419">792-740</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_80" stroke="#000000" stroke-width="0" text-anchor="middle" x="222.99658" xml:space="preserve" y="240.66663">亞她利雅</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_81" stroke="#000000" stroke-width="0" text-anchor="middle" x="222.99658" xml:space="preserve" y="250.66663">Athaliah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_82" stroke="#000000" stroke-width="0" text-anchor="middle" x="222.99658" xml:space="preserve" y="260.66663">841-835</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_172" stroke="#000000" stroke-width="0" text-anchor="middle" x="242" xml:space="preserve" y="142">[3]心利</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_173" stroke="#000000" stroke-width="0" text-anchor="middle" x="241" xml:space="preserve" y="152">[3]Zimri</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_174" stroke="#000000" stroke-width="0" text-anchor="middle" x="238" xml:space="preserve" y="162">885(7天)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_35" stroke="#000000" stroke-width="0" text-anchor="middle" x="326" xml:space="preserve" y="75">[1]耶羅波安一世</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_36" stroke="#000000" stroke-width="0" text-anchor="middle" x="321" xml:space="preserve" y="85">[1]Jeroboam I</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_37" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="95">930-909</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_168" stroke="#000000" stroke-width="0" text-anchor="middle" x="355" xml:space="preserve" y="145">[2]以拉</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_169" stroke="#000000" stroke-width="0" text-anchor="middle" x="355" xml:space="preserve" y="155">[2]Elah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_170" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="165">886-885</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_184" stroke="#000000" stroke-width="0" text-anchor="middle" x="355" xml:space="preserve" y="191">[5]亞哈</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_185" stroke="#000000" stroke-width="0" text-anchor="middle" x="357" xml:space="preserve" y="201">[5]Ahab</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_186" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="211">874-853</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_192" stroke="#000000" stroke-width="0" text-anchor="middle" x="355" xml:space="preserve" y="229">[5]約蘭</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_193" stroke="#000000" stroke-width="0" text-anchor="middle" x="359" xml:space="preserve" y="239">[5]Joram</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_194" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="249">852-841</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_200" stroke="#000000" stroke-width="0" text-anchor="middle" x="360" xml:space="preserve" y="303">[6]約哈斯</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_201" stroke="#000000" stroke-width="0" text-anchor="middle" x="367" xml:space="preserve" y="313">[6]Jehoahaz</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_202" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="323">814-798</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_327" stroke="#000000" stroke-width="0" text-anchor="middle" x="436" xml:space="preserve" y="83">亞希雅</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_328" stroke="#000000" stroke-width="0" text-anchor="middle" x="435" xml:space="preserve" y="93">Ahijah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_329" stroke="#000000" stroke-width="0" text-anchor="middle" x="439" xml:space="preserve" y="103">934-909</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_335" stroke="#000000" stroke-width="0" text-anchor="middle" x="425" xml:space="preserve" y="202">以利亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_336" stroke="#000000" stroke-width="0" text-anchor="middle" x="422" xml:space="preserve" y="212">Elijah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_337" stroke="#000000" stroke-width="0" text-anchor="middle" x="428" xml:space="preserve" y="222">875-848</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_339" stroke="#000000" stroke-width="0" text-anchor="middle" x="426" xml:space="preserve" y="288">以利沙</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_340" stroke="#000000" stroke-width="0" text-anchor="middle" x="424" xml:space="preserve" y="298">Elisha</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_341" stroke="#000000" stroke-width="0" text-anchor="middle" x="428" xml:space="preserve" y="308">848-797</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_343" stroke="#000000" stroke-width="0" text-anchor="middle" x="421" xml:space="preserve" y="383">約拿</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_344" stroke="#000000" stroke-width="0" text-anchor="middle" x="424" xml:space="preserve" y="393">Jonah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_345" stroke="#000000" stroke-width="0" text-anchor="middle" x="429" xml:space="preserve" y="403">793-753</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_347" stroke="#000000" stroke-width="0" text-anchor="middle" x="425" xml:space="preserve" y="421">阿摩司</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_348" stroke="#000000" stroke-width="0" text-anchor="middle" x="423" xml:space="preserve" y="431">Amos</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_349" stroke="#000000" stroke-width="0" text-anchor="middle" x="428" xml:space="preserve" y="441">760-750</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_351" stroke="#000000" stroke-width="0" text-anchor="middle" x="425" xml:space="preserve" y="478">何西阿</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_352" stroke="#000000" stroke-width="0" text-anchor="middle" x="424" xml:space="preserve" y="488">Hosea</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_353" stroke="#000000" stroke-width="0" text-anchor="middle" x="428" xml:space="preserve" y="498">735-715</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_60" stroke="#000000" stroke-width="0" text-anchor="middle" x="363" xml:space="preserve" y="467">[10]何細亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_61" stroke="#000000" stroke-width="0" text-anchor="middle" x="365" xml:space="preserve" y="477">[10]Hoshea</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_66" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="487">730-722</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_212" stroke="#000000" stroke-width="0" text-anchor="middle" x="365" xml:space="preserve" y="410">[6]撒迦利亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_213" stroke="#000000" stroke-width="0" text-anchor="middle" x="367" xml:space="preserve" y="420">[6]Zechariah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_214" stroke="#000000" stroke-width="0" text-anchor="middle" x="348" xml:space="preserve" y="430">753</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_208" stroke="#000000" stroke-width="0" text-anchor="middle" x="325" xml:space="preserve" y="372">[6]耶羅波安二世</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_209" stroke="#000000" stroke-width="0" text-anchor="middle" x="321" xml:space="preserve" y="382">[6]Jeroboam II</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_210" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="392">793-753</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_204" stroke="#000000" stroke-width="0" text-anchor="middle" x="310" xml:space="preserve" y="326">[6]約阿施</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_205" stroke="#000000" stroke-width="0" text-anchor="middle" x="314" xml:space="preserve" y="336">[6]Jehoash</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_206" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="346">798-782</text>
+   <rect fill="#bfbfbf" height="0" id="svg_141" stroke="#000000" width="6" x="303" y="285"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_196" stroke="#000000" stroke-width="0" text-anchor="middle" x="305" xml:space="preserve" y="262">[6]耶戶</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_197" stroke="#000000" stroke-width="0" text-anchor="middle" x="306" xml:space="preserve" y="272">[6]Jehu</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_198" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="282">841-814</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_116" stroke="#000000" stroke-width="0" text-anchor="middle" x="219" xml:space="preserve" y="634">亞捫</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_118" stroke="#000000" stroke-width="0" text-anchor="middle" x="227" xml:space="preserve" y="654">642-640</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_117" stroke="#000000" stroke-width="0" text-anchor="middle" x="222" xml:space="preserve" y="644">Amon</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_124" stroke="#000000" stroke-width="0" text-anchor="middle" x="225" xml:space="preserve" y="694">約哈斯</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_125" stroke="#000000" stroke-width="0" text-anchor="middle" x="232" xml:space="preserve" y="704">Jehoahaz</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_126" stroke="#000000" stroke-width="0" text-anchor="middle" x="218" xml:space="preserve" y="714">609</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_132" stroke="#000000" stroke-width="0" text-anchor="middle" x="226" xml:space="preserve" y="735">約雅斤</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_133" stroke="#000000" stroke-width="0" text-anchor="middle" x="235" xml:space="preserve" y="745">Jehoiachin</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_134" stroke="#000000" stroke-width="0" text-anchor="middle" x="220" xml:space="preserve" y="755">597</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_136" stroke="#000000" stroke-width="0" text-anchor="middle" x="166.35938" xml:space="preserve" y="747">希底家</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_137" stroke="#000000" stroke-width="0" text-anchor="middle" x="160.35938" xml:space="preserve" y="757">Zedekiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_138" stroke="#000000" stroke-width="0" text-anchor="middle" x="162.35938" xml:space="preserve" y="767">597-586</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_120" stroke="#000000" stroke-width="0" text-anchor="middle" x="163.90625" xml:space="preserve" y="658">約西亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_121" stroke="#000000" stroke-width="0" text-anchor="middle" x="164.90625" xml:space="preserve" y="668">Josiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_122" stroke="#000000" stroke-width="0" text-anchor="middle" x="160.90625" xml:space="preserve" y="678">640-609</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_112" stroke="#000000" stroke-width="0" text-anchor="middle" x="164" xml:space="preserve" y="577">瑪拿西</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_113" stroke="#000000" stroke-width="0" text-anchor="middle" x="156" xml:space="preserve" y="587">Manasseh</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_114" stroke="#000000" stroke-width="0" text-anchor="middle" x="161" xml:space="preserve" y="597">697-642</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_108" stroke="#000000" stroke-width="0" text-anchor="middle" x="165" xml:space="preserve" y="504">希西家</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_109" stroke="#000000" stroke-width="0" text-anchor="middle" x="159" xml:space="preserve" y="514">Hezekiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_110" stroke="#000000" stroke-width="0" text-anchor="middle" x="162" xml:space="preserve" y="524">727-686</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_96" stroke="#000000" stroke-width="0" text-anchor="middle" x="170" xml:space="preserve" y="432">約坦</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_97" stroke="#000000" stroke-width="0" text-anchor="middle" x="159" xml:space="preserve" y="442">Jonathan</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_98" stroke="#000000" stroke-width="0" text-anchor="middle" x="161" xml:space="preserve" y="452">750-735</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_104" stroke="#000000" stroke-width="0" text-anchor="middle" x="165" xml:space="preserve" y="467">亞哈斯</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_105" stroke="#000000" stroke-width="0" text-anchor="middle" x="169" xml:space="preserve" y="477">Ahaz</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_106" stroke="#000000" stroke-width="0" text-anchor="middle" x="162" xml:space="preserve" y="487">735-715</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_220" stroke="#000000" stroke-width="0" text-anchor="middle" x="238" xml:space="preserve" y="456">[8]米拿現</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_221" stroke="#000000" stroke-width="0" text-anchor="middle" x="231" xml:space="preserve" y="466">[8]Menahem</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_222" stroke="#000000" stroke-width="0" text-anchor="middle" x="240" xml:space="preserve" y="476">753-742</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_224" stroke="#000000" stroke-width="0" text-anchor="middle" x="239" xml:space="preserve" y="421">[8]比加轄</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_225" stroke="#000000" stroke-width="0" text-anchor="middle" x="233" xml:space="preserve" y="431">[8]Pekahiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_226" stroke="#000000" stroke-width="0" text-anchor="middle" x="241" xml:space="preserve" y="441">742-740</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_216" stroke="#000000" stroke-width="0" text-anchor="middle" x="243" xml:space="preserve" y="382">[7]沙龍</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_217" stroke="#000000" stroke-width="0" text-anchor="middle" x="235" xml:space="preserve" y="392">[7]Shallum</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_218" stroke="#000000" stroke-width="0" text-anchor="middle" x="239" xml:space="preserve" y="402">752(1月)</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_52" stroke="#000000" stroke-width="0" text-anchor="middle" x="305" xml:space="preserve" y="442">[9]比加</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_53" stroke="#000000" stroke-width="0" text-anchor="middle" x="309" xml:space="preserve" y="452">[9]Pekah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_54" stroke="#000000" stroke-width="0" text-anchor="middle" x="308" xml:space="preserve" y="462">750-730</text>
+   <line fill="none" id="svg_512" marker-start="url(#se_marker_start_svg_512)" stroke="#000000" x1="266" x2="258" y1="154" y2="154"/>
+   <line fill="none" id="svg_513" marker-end="url(#se_marker_end_svg_513)" stroke="#000000" transform="rotate(-90 269 160)" x1="263" x2="275" y1="160" y2="160"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_176" stroke="#000000" stroke-width="0" text-anchor="middle" x="239" xml:space="preserve" y="177">[4]提比尼</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_177" stroke="#000000" stroke-width="0" text-anchor="middle" x="243" xml:space="preserve" y="187">[4]Tibni</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_178" stroke="#000000" stroke-width="0" text-anchor="middle" x="241" xml:space="preserve" y="197">885-881</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" x="355" xml:space="preserve" y="100">[1]拿答</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_15" stroke="#000000" stroke-width="0" text-anchor="middle" x="360" xml:space="preserve" y="110">[1]Nadab</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_33" stroke="#000000" stroke-width="0" text-anchor="middle" x="358" xml:space="preserve" y="120">909-908</text>
+   <line fill="none" id="svg_516" marker-end="url(#se_marker_end_svg_516)" marker-start="url(#se_marker_start_svg_516)" stroke="#000000" x1="269" x2="281" y1="417" y2="417"/>
+   <line fill="none" id="svg_394" marker-end="url(#se_marker_end_svg_232)" stroke="#b2b2b2" stroke-width="3" x1="289" x2="289" y1="535" y2="840"/>
+   <line fill="none" id="svg_282" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 288 624)" x1="288" x2="288" y1="619" y2="629"/>
+   <line fill="none" id="svg_17" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 288 724.32)" x1="288" x2="288" y1="719" y2="729"/>
+   <line fill="none" id="svg_16" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 288 824.32)" x1="288" x2="288" y1="819" y2="829"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_20" stroke="#000000" stroke-width="0" text-anchor="middle" x="288" xml:space="preserve" y="621">500</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_390" stroke="#000000" stroke-width="0" text-anchor="middle" x="289" xml:space="preserve" y="721">450</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_518" stroke="#000000" stroke-width="0" text-anchor="middle" x="289" xml:space="preserve" y="821">400</text>
+   <rect fill="#bfbfbf" height="30" id="svg_520" stroke="#000000" width="4" x="353" y="734"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_538" stroke="#000000" stroke-width="0" text-anchor="middle" x="415" xml:space="preserve" y="711">458 以斯拉 [2] 歸回</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_523" stroke="#000000" stroke-width="0" text-anchor="middle" x="415" xml:space="preserve" y="737">445 尼希米 [3] 歸回</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_532" stroke="#000000" stroke-width="0" text-anchor="middle" x="420" xml:space="preserve" y="555">536 所羅巴伯 [1] 歸回</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_548" stroke="#000000" stroke-width="0" text-anchor="middle" x="402" xml:space="preserve" y="595">516 聖殿完工</text>
+   <line fill="none" id="svg_559" marker-end="url(#se_marker_end_svg_559)" marker-start="url(#se_marker_start_svg_559)" stroke="#000000" x1="367" x2="367" y1="552" y2="584"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_544" stroke="#000000" stroke-width="0" text-anchor="middle" x="402" xml:space="preserve" y="584">520 聖殿復工</text>
+   <line fill="none" id="svg_562" marker-end="url(#se_marker_end_svg_562)" marker-start="url(#se_marker_start_svg_562)" stroke="#000000" x1="367" x2="367" y1="584" y2="592"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_391" stroke="#000000" stroke-width="0" text-anchor="middle" x="323" xml:space="preserve" y="630">撒迦利亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_392" stroke="#000000" stroke-width="0" text-anchor="middle" x="321" xml:space="preserve" y="640">Zechariah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_393" stroke="#000000" stroke-width="0" text-anchor="middle" x="325" xml:space="preserve" y="650">520-480</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_395" stroke="#000000" stroke-width="0" text-anchor="middle" x="333" xml:space="preserve" y="592">哈該</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_396" stroke="#000000" stroke-width="0" text-anchor="middle" x="328" xml:space="preserve" y="602">Haggai</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_397" stroke="#000000" stroke-width="0" text-anchor="middle" x="325" xml:space="preserve" y="612">520-505</text>
+   <line fill="none" id="svg_270" marker-end="url(#se_marker_end_svg_562)" marker-start="url(#se_marker_start_svg_562)" stroke="#000000" x1="367" x2="367" y1="592" y2="708"/>
+   <line fill="none" id="svg_271" marker-end="url(#se_marker_end_svg_562)" marker-start="url(#se_marker_start_svg_562)" stroke="#000000" x1="367" x2="367" y1="708" y2="734"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_389" stroke="#000000" stroke-width="0" text-anchor="middle" x="329" xml:space="preserve" y="762">440-430</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_388" stroke="#000000" stroke-width="0" text-anchor="middle" x="330" xml:space="preserve" y="752">Malachi</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_387" stroke="#000000" stroke-width="0" text-anchor="middle" x="332" xml:space="preserve" y="742">瑪拉基</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_274" stroke="#000000" stroke-width="0" text-anchor="middle" x="408" xml:space="preserve" y="672">478 以斯帖封后</text>
+   <line fill="none" id="svg_275" marker-end="url(#se_marker_end_svg_562)" marker-start="url(#se_marker_start_svg_562)" stroke="#000000" x1="367" x2="367" y1="669" y2="707"/>
+   <line fill="none" id="svg_424" marker-end="url(#se_marker_end_svg_232)" stroke="#b2b2b2" stroke-width="3" x1="14" x2="14" y1="64" y2="840"/>
+   <line fill="none" id="svg_448" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.377 123.25)" x1="13.77661" x2="13.77661" y1="118.19995" y2="128.19995"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_446" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="720.69995">600</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_445" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="820.69995">550</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_444" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="620.69995">650</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_443" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="520.69995">700</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_442" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="420.69995">750</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_441" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="320.69995">800</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_440" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="220.69995">850</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" font-weight="bold" id="svg_439" stroke="#000000" stroke-width="0" text-anchor="middle" x="13.77661" xml:space="preserve" y="120.69995">900</text>
+   <line fill="none" id="svg_435" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 823.52)" x1="13.77661" x2="13.77661" y1="818.5191" y2="828.5191"/>
+   <line fill="none" id="svg_434" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 723.52)" x1="13.77661" x2="13.77661" y1="718.5191" y2="728.5191"/>
+   <line fill="none" id="svg_433" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 623.519)" x1="13.77661" x2="13.77661" y1="618.5191" y2="628.5191"/>
+   <line fill="none" id="svg_432" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 423.519)" x1="13.77661" x2="13.77661" y1="418.5191" y2="428.5191"/>
+   <line fill="none" id="svg_431" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 323.519)" x1="13.77661" x2="13.77661" y1="318.5191" y2="328.5191"/>
+   <line fill="none" id="svg_430" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 223.519)" x1="13.77661" x2="13.77661" y1="218.5191" y2="228.5191"/>
+   <line fill="none" id="svg_429" stroke="#b2b2b2" stroke-width="3" transform="rotate(90 13.777 523.519)" x1="13.77661" x2="13.77661" y1="518.5191" y2="528.5191"/>
+   <rect fill="#bfbfbf" height="38" id="svg_215" stroke="#000000" width="5" x="93" y="643"/>
+   <rect fill="#bfbfbf" height="118" id="svg_418" stroke="#000000" width="5" x="98" y="443"/>
+   <rect fill="#bfbfbf" height="110" id="svg_59" stroke="#000000" width="5" x="103" y="439"/>
+   <rect fill="#bfbfbf" height="102" id="svg_115" stroke="#000000" width="5" x="98" y="597"/>
+   <rect fill="#bfbfbf" height="50" id="svg_167" stroke="#000000" width="5" x="93" y="731"/>
+   <rect fill="#bfbfbf" height="82" id="svg_191" stroke="#000000" width="5" x="88" y="669"/>
+   <rect fill="#bfbfbf" height="150" id="svg_227" stroke="#000000" width="5" x="98" y="713"/>
+   <rect fill="#bfbfbf" height="45" id="svg_458" stroke="#000000" width="5" x="83" y="699"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_403" stroke="#000000" stroke-width="0" text-anchor="middle" x="61" xml:space="preserve" y="760">以西結</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_404" stroke="#000000" stroke-width="0" text-anchor="middle" x="62" xml:space="preserve" y="770">Ezekiel</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_405" stroke="#000000" stroke-width="0" text-anchor="middle" x="64" xml:space="preserve" y="780">597-571</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_355" stroke="#000000" stroke-width="0" text-anchor="middle" x="64" xml:space="preserve" y="678">耶利米</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_356" stroke="#000000" stroke-width="0" text-anchor="middle" x="58" xml:space="preserve" y="688">Jeremiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_357" stroke="#000000" stroke-width="0" text-anchor="middle" x="60" xml:space="preserve" y="698">627-586</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_399" stroke="#000000" stroke-width="0" text-anchor="middle" x="73" xml:space="preserve" y="810">但以理</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_400" stroke="#000000" stroke-width="0" text-anchor="middle" x="74" xml:space="preserve" y="820">Daniel</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_401" stroke="#000000" stroke-width="0" text-anchor="middle" x="70" xml:space="preserve" y="830">605-530</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_367" stroke="#000000" stroke-width="0" text-anchor="middle" x="77" xml:space="preserve" y="502">以賽亞</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_368" stroke="#000000" stroke-width="0" text-anchor="middle" x="79" xml:space="preserve" y="512">Isaiah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_369" stroke="#000000" stroke-width="0" text-anchor="middle" x="74" xml:space="preserve" y="522">740-681</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_363" stroke="#000000" stroke-width="0" text-anchor="middle" x="77" xml:space="preserve" y="605">那鴻</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_364" stroke="#000000" stroke-width="0" text-anchor="middle" x="71" xml:space="preserve" y="615">Nahum</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_365" stroke="#000000" stroke-width="0" text-anchor="middle" x="69" xml:space="preserve" y="625">663-612</text>
+   <rect fill="#bfbfbf" height="78" id="svg_276" stroke="#000000" width="5" x="98" y="253"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_375" stroke="#000000" stroke-width="0" text-anchor="middle" x="81" xml:space="preserve" y="282">約珥</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_376" stroke="#000000" stroke-width="0" text-anchor="middle" x="82" xml:space="preserve" y="292">Joel</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_377" stroke="#000000" stroke-width="0" text-anchor="middle" x="73" xml:space="preserve" y="302">835-796</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_359" stroke="#000000" stroke-width="0" text-anchor="middle" x="69" xml:space="preserve" y="644">西番雅</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_360" stroke="#000000" stroke-width="0" text-anchor="middle" x="60" xml:space="preserve" y="654">Zephaniah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_361" stroke="#000000" stroke-width="0" text-anchor="middle" x="65" xml:space="preserve" y="664">640-621</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_407" stroke="#000000" stroke-width="0" text-anchor="middle" x="63" xml:space="preserve" y="716">哈巴谷</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_408" stroke="#000000" stroke-width="0" text-anchor="middle" x="56" xml:space="preserve" y="726">Habakkuk</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_409" stroke="#000000" stroke-width="0" text-anchor="middle" x="60" xml:space="preserve" y="736">612-589</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_371" stroke="#000000" stroke-width="0" text-anchor="middle" x="81" xml:space="preserve" y="438">彌迦</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_372" stroke="#000000" stroke-width="0" text-anchor="middle" x="78" xml:space="preserve" y="448">Micah</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_373" stroke="#000000" stroke-width="0" text-anchor="middle" x="73" xml:space="preserve" y="458">742-687</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_323" stroke="#000000" stroke-width="0" text-anchor="middle" x="233.8512" xml:space="preserve" y="52.77124">970-930</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_322" stroke="#000000" stroke-width="0" text-anchor="middle" x="233.8512" xml:space="preserve" y="42.77124">Solomon</text>
+   <text fill="#000000" font-family="Sans-serif" font-size="10" id="svg_321" stroke="#000000" stroke-width="0" text-anchor="middle" x="233.8512" xml:space="preserve" y="32.77124">所羅門</text>
+   <path d="m116.12483,133.91123c-1.56532,0 -2.83426,-0.9015 -2.83426,-2.01352l0,-69.97295c0,-1.11204 -1.26894,-2.01353 -2.83426,-2.01353l0,0c1.56532,0 2.83426,-0.90148 2.83426,-2.01352l0,-69.97295l0,0c0,-1.11204 1.26894,-2.01352 2.83426,-2.01352" fill="#ffffff" id="svg_5" stroke="#000000" transform="rotate(89.7112 113.291 59.9112)"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="12" font-weight="bold" id="svg_6" stroke="#000000" stroke-width="0" text-anchor="middle" x="113.325" xml:space="preserve" y="54.625">南國猶大</text>
+   <path d="m374.50547,150.49591c-1.61265,0 -2.91996,-1.10859 -2.91996,-2.47608l0,-86.04761c0,-1.3675 -1.3073,-2.47608 -2.91995,-2.47608l0,0c1.61265,0 2.91995,-1.10859 2.91995,-2.47608l0,-86.04761l0,0c0,-1.36751 1.30731,-2.47609 2.91996,-2.47609" fill="#ffffff" id="svg_10" stroke="#000000" transform="rotate(89.7112 371.586 59.496)"/>
+   <text fill="#000000" font-family="Sans-serif" font-size="12" font-weight="bold" id="svg_9" stroke="#000000" stroke-width="0" text-anchor="middle" x="373.619945" xml:space="preserve" y="53.2099">北國以色列</text>
+  </g>
+ </g>
+</svg>
