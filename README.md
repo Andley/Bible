@@ -1,5 +1,1 @@
-# Bible-Notes
-聖經綜覽筆記
-
-![](images/Kings(2020-06-01).svg)
-![](images/Kings-Divided(2020-06-01).svg)
+[聖經綜覽](%E8%81%96%E7%B6%93%E7%B6%9C%E8%A6%BD.md)
